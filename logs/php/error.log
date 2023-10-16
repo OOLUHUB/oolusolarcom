@@ -1,0 +1,5 @@
+[16-Oct-2023 14:10:58 UTC] PHP Warning:  Undefined variable $qsid in /Users/roland/Local Sites/oolusolarcom/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[16-Oct-2023 14:10:58 UTC] PHP Warning:  Undefined variable $qsid in /Users/roland/Local Sites/oolusolarcom/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[16-Oct-2023 14:10:58 UTC] PHP Warning:  Undefined variable $qsid in /Users/roland/Local Sites/oolusolarcom/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[16-Oct-2023 14:10:58 UTC] PHP Warning:  Undefined variable $qsid in /Users/roland/Local Sites/oolusolarcom/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[16-Oct-2023 14:10:58 UTC] PHP Warning:  Undefined variable $qsid in /Users/roland/Local Sites/oolusolarcom/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
